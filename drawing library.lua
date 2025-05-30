@@ -1,4 +1,4 @@
---// not made by me
+
 
 
 local coreGui = game:GetService("CoreGui")
